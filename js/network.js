@@ -5,8 +5,8 @@
   var SUCCESS_CODE = 200;
   var TIMEOUT_SERVER = 10000;
   var ServerLink = {
-    LOAD: 'https://js.dump.academy/keksobooking/data',
-    UPLOAD: 'https://js.dump.academy/keksobooking'
+    LOAD: 'https://javascript.pages.academy/keksobooking/data',
+    UPLOAD: 'https://javascript.pages.academy/keksobooking'
   };
 
   var ErrorText = {
