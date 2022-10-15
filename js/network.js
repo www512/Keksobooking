@@ -5,7 +5,7 @@
   var SUCCESS_CODE = 200;
   var TIMEOUT_SERVER = 10000;
   var ServerLink = {
-    LOAD: 'https://www512.github.io/keksobooking/package',
+    LOAD: 'https://www512.github.io/keksobooking/data.json',
     UPLOAD: 'https://javascript.pages.academy/keksobooking'
   };
 
